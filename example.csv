@@ -1,0 +1,51 @@
+code,state,category,previrus_joblessclaims,previrus_levchg,claims_apr25,pct_jobless_workforce
+AL,Alabama,state,2944%,"62,062","408,551",18.20%
+AK,Alaska,state,1225%,"10,343","72,726",21.10%
+AZ,Arizona,state,1487%,"48,815","477,646",13.20%
+AR,Arkansas,state,1032%,"15,266","178,277",13.00%
+CA,California,state,703%,"287,170","3,732,952",19.10%
+CO,Colorado,state,1915%,"36,463","340,837",10.70%
+CT,Connecticut,state,1180%,"30,456","265,126",13.70%
+DE,Delaware,state,1258%,"7,183","79,694",16.30%
+FL,Florida,state,8435%,"427,398","1,598,699",15.30%
+GA,Georgia,state,4847%,"259,465","1,372,939",26.60%
+HI,Hawaii,state,1891%,"21,479","196,024",29.30%
+ID,Idaho,state,651%,"7,167","118,284",13.30%
+IL,Illinois,state,765%,"71,854","829,787",13.00%
+IN,Indiana,state,2188%,"54,889","572,443",16.90%
+IA,Iowa,state,1136%,"26,494","262,958",15.00%
+KS,Kansas,state,1639%,"26,441","217,477",14.50%
+KY,Kentucky,state,3530%,"88,322","593,614",28.50%
+LA,Louisiana,state,3824%,"64,481","510,457",24.20%
+ME,Maine,state,864%,"6,702","109,508",15.80%
+MD,Maryland,state,1221%,"33,711","389,521",11.90%
+MA,Massachusetts,state,1067%,"64,656","732,467",19.10%
+MI,Michigan,state,1372%,"75,788","1,266,459",25.60%
+MN,Minnesota,state,1422%,"50,042","560,661",18.00%
+MS,Mississippi,state,4230%,"35,015","203,037",15.90%
+MO,Missouri,state,1625%,"49,365","456,142",14.70%
+MT,Montana,state,747%,"5,838","90,243",16.80%
+NE,Nebraska,state,1513%,"7,689","104,972",10.10%
+NV,Nevada,state,1852%,"42,736","393,061",25.20%
+NH,New Hampshire,state,2443%,"13,783","160,635",20.60%
+NJ,New Jersey,state,768%,"62,838","898,947",19.70%
+NM,New Mexico,state,1836%,"13,004","119,331",12.40%
+NY,New York,state,1088%,"200,482","1,624,114",17.00%
+NC,North Carolina,state,3680%,"94,660","750,836",14.70%
+ND,North Dakota,state,1568%,"6,577","57,583",14.20%
+OH,Ohio,state,1143%,"83,460","1,063,741",18.20%
+OK,Oklahoma,state,2661%,"41,035","275,794",15.00%
+OR,Oregon,state,1076%,"42,750","283,121",13.40%
+PA,Pennsylvania,state,940%,"118,661","1,635,951",24.90%
+RI,Rhode Island,state,1070%,"12,015","146,723",26.30%
+SC,South Carolina,state,3251%,"63,215","415,635",17.40%
+SD,South Dakota,state,2857%,"5,207","33,933",7.30%
+TN,Tennessee,state,2078%,"41,782","428,370",12.70%
+TX,Texas,state,1860%,"241,228","1,572,171",11.10%
+UT,Utah,state,1082%,"10,829","138,561",8.50%
+VT,Vermont,state,708%,"4,356","56,781",16.70%
+VA,Virginia,state,2703%,"71,402","570,240",12.80%
+WA,Washington,state,2301%,"139,687","871,937",22.00%
+WV,West Virginia,state,2517%,"28,446","124,693",15.50%
+WI,Wisconsin,state,783%,"44,256","447,771",14.40%
+WY,Wyoming,state,480%,"2,388","30,170",10.30%
